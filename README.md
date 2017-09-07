@@ -1,0 +1,2 @@
+# device_j3xnlte_proprietary_blobs
+device_j3xnlte_proprietary_blobs
